@@ -1,0 +1,14 @@
+body{
+    
+    background-color: hsl(40, 33%, 98%);
+    color: black;
+}
+h1{
+   color: red;
+   text-shadow: 5px 5px 5px gray,-3px -3px 5px rgb(30, 29, 29);
+}
+h1:hover{
+    background-color: brown;
+    color:blue;
+    font-size: 40px;
+}
